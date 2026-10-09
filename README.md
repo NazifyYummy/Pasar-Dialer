@@ -177,7 +177,7 @@ Pasar Dialer is an Android call management application created for a sales unit 
 
 ### دریافت نسخه نصبی (APK)
 
- دانلود فایل نصبی : https://github.com/mjnazify/Pasar-Dialer/releases/download/Latest/Pasar.Dialer.apk
+ دانلود فایل نصبی : https://github.com/NazifyYummy/Pasar-Dialer/releases/download/Latest/Pasar.Dialer.apk
 
 > **نکته:** این برنامه با Google Play Console امضا نشده است؛ بنابراین ممکن است هنگام نصب، سیستم‌عامل اندروید هشدار «منبع ناشناس» یا مشابه آن را نمایش دهد. برای نصب، باید گزینه «نصب از منابع ناشناس» را فعال کنید.
 ### ساخت از کد منبع
