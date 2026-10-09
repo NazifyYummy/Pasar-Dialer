@@ -1,7 +1,7 @@
 # Pasar Dialer
 
 <p align="center">
-  <a href="#persian-guide"><img src="https://img.shields.io/badge/راهنمای_فارسی-2ea44f?style=for-the-badge" alt="Persian Guide"></a>
+  <a href="#persian-guide"><img src="https://img.shields.io/badge/Persian_Guide-2ea44f?style=for-the-badge" alt="Persian Guide"></a>
   <a href="#english-guide"><img src="https://img.shields.io/badge/English_Guide-007bff?style=for-the-badge" alt="English Guide"></a>
 </p>
 
@@ -64,6 +64,11 @@ Pasar Dialer is an Android call management application created for a sales unit 
 > **نکته مدیریتی برای سرپرست واحد:** سرپرست واحد می‌تواند بررسی کند که هزینه ۲۳۰۰ ثانیه از عمر هر کارشناس برای هر روز کاری بیشتر است یا هزینه تهیه کردن یک دیتابیس از شماره تلفن‌ها. به عبارت دیگر، آیا صرفه‌جویی زمانی حاصل از این ابزار، سرمایه‌گذاری روی تهیه و به‌روزرسانی دیتابیس را توجیه می‌کند یا خیر.
 
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bec0ed06-44ef-4f70-8794-89f02280b026" width="30%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/cd724fd2-6ff8-4c71-931d-ebb424ecf8b2" width="30%" />
+</p>
 
 ## قابلیت‌های کلیدی
 
@@ -172,7 +177,7 @@ Pasar Dialer is an Android call management application created for a sales unit 
 
 ### دریافت نسخه نصبی (APK)
 
-فایل نصبی (APK) این برنامه در بخش **Release** مخزن GitHub قرار دارد. می‌توانید آن را مستقیماً دانلود کرده و روی دستگاه اندرویدی خود نصب کنید.
+ دانلود فایل نصبی : https://github.com/mjnazify/Pasar-Dialer/releases/download/Latest/Pasar.Dialer.apk
 
 > **نکته:** این برنامه با Google Play Console امضا نشده است؛ بنابراین ممکن است هنگام نصب، سیستم‌عامل اندروید هشدار «منبع ناشناس» یا مشابه آن را نمایش دهد. برای نصب، باید گزینه «نصب از منابع ناشناس» را فعال کنید.
 ### ساخت از کد منبع
@@ -214,3 +219,6 @@ Pasar Dialer is an Android call management application created for a sales unit 
 ## وضعیت توسعه و پشتیبانی
 
 این پروژه دیگر توسعه بیشتری نخواهد داشت. اگر نیاز یا سوالی داشتید، می‌توانید از طریق مخزن GitHub با من در ارتباط باشید.
+
+## قدردانی
+تمام این پروژه به صورت کامل با Google AI Studio تهیه و توسعه داده شده است. از Google AI Studio برای فراهم کردن بستر ساخت این اپلیکیشن صمیمانه تشکر می‌کنم.
