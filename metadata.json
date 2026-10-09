@@ -1,0 +1,6 @@
+{
+  "name": "Pasar Dialer",
+  "description": "An android app for importing phone numbers and attributes from a Python dictionary or JSON file. Keeps track of historic calls using a local SQLite Room DB to prevent duplicates, highlighting called numbers in red.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
